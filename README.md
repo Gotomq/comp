@@ -1,5 +1,5 @@
 # Compiladores
-## Labs
+## Prac
 ### [Prac 01](/prac1/)
 #### [Prac 01-'C'](/prac1/eg-C.c)
 #### [Prac 01-'D'](/prac1/eg-C.c)
